@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Li-ZhenHao
+- 👀 I’m interested in machine learning and reinforcement learning because it is really useful in today's society.
+- 🌱 I’m currently learning programming language such as python and c++.
+- 💞️ I'm a zero year graduate student in medicine and physics at Fudan University of China.
+- 💞️ Before I enter to Fudan,I received my B.E degree in Electronics and Communication from JiLin University.
+- 📫 You can reach me @orange.zhenhao.li@gmail.com .
+- 📫 At the end, although my program maybe a piece of shit, I do hope I can share and show my progress in computer programming.
